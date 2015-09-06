@@ -1,0 +1,8 @@
+FusionPBX 3.9 image for Cubox-i series. Release 20150906
+
+# MD5
+729d83f942303e5ce3b728752a75639e  fusionpbx390-20150906.img.xz
+# SHA1
+778cdf81cd0f52ad1931b9f943b985de5c66e051  fusionpbx390-20150906.img.xz
+# SHA256
+85b08049369736fe7d6b6f1fac20526546aa245fb32d70677f64a4edc5858324  fusionpbx390-20150906.img.xz
